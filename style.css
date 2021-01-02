@@ -62,6 +62,10 @@ body{
   
   /* Needed to position the navbar */
   position: relative;
+
+
+  max-width: 100%; 
+  height: auto;
 }
 
 /* Position the navbar container inside the image */
